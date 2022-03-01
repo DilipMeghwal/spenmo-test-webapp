@@ -1,0 +1,10 @@
+{
+    "admin":{
+        "username" : "admin@bd.com",
+        "password" : "spenmo@123"
+    },
+    "user0":{
+        "username" : "harry@bd.com",
+        "password" : "spenmo@123"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "receipt0" : {
+        "merchant" : "test assignment",
+        "category" : "Medical",
+        "currency" : "SGD",
+        "amount" : "20.00",
+        "date" : null,
+        "message" : "test assignment script message",
+        "file" : "receipt_JPG.jpg"
+    }
+}
